@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="action_asc">Sort By A-Z</string>
+    <string name="action_desc">Sort By Z-A</string>
+    <string name="progress_title">Loading Contacts</string>
+    <string name="progress_msg">Please wait...</string>
+    <string name="detail_company">COMPANY</string>
+    <string name="detail_username">USERNAME</string>
+    <string name="detail_phone">PHONE</string>
+    <string name="detail_website">WEBSITE</string>
+    <string name="detail_address">ADDRESS</string>
+    <string name="unknown">Unknown?</string>
+</resources>

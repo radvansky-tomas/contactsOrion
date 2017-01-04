@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.radvansky.orion.contacts.activities.MainActivity">
+    <item
+        android:id="@+id/action_asc"
+        android:checkable="true"
+        android:orderInCategory="100"
+        android:title="@string/action_asc"
+        android:checked="false"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_desc"
+        android:checkable="true"
+        android:orderInCategory="100"
+        android:title="@string/action_desc"
+        android:checked="true"
+        app:showAsAction="never" />
+</menu>
